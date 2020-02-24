@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ezuren.github.io</id>
     <title>尧记</title>
-    <updated>2020-02-24T12:27:59.573Z</updated>
+    <updated>2020-02-24T12:29:54.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ezuren.github.io"/>
     <link rel="self" href="https://ezuren.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://ezuren.github.io/images/avatar.png</logo>
     <icon>https://ezuren.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 尧记</rights>
+    <entry>
+        <title type="html"><![CDATA[本站为备用站]]></title>
+        <id>https://ezuren.github.io/ben-zhan-wei-bei-yong-zhan/</id>
+        <link href="https://ezuren.github.io/ben-zhan-wei-bei-yong-zhan/">
+        </link>
+        <updated>2020-02-24T12:28:24.000Z</updated>
+        <content type="html"><![CDATA[<p>尧记主站：https://ezuren.win<br>
+尧记备用站：https://ezuren.github.io</p>
+]]></content>
+    </entry>
 </feed>
